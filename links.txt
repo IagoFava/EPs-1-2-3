@@ -1,0 +1,2 @@
+github: https://github.com/IagoFava/EPs-1-2-3/blob/master/EP1.ipynb
+drive: https://drive.google.com/drive/u/0/folders/10CdfUiVPZ0Y44nOsgekz2dCDIgMUc11h

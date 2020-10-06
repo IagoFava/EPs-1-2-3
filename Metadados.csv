@@ -1,0 +1,576 @@
+Name,classe,objeto,fundo,local,iluminação,número
+IMG_20200925_142406.jpg,colher de pau,simples,branco,dentro,dia,1
+IMG_20200925_142410.jpg,colher de pau,simples,branco,dentro,dia,2
+IMG_20200925_142417.jpg,colher de pau,simples,branco,dentro,dia,3
+IMG_20200925_142458.jpg,colher de pau,simples,xadrez,dentro,dia,1
+IMG_20200925_142505.jpg,colher de pau,simples,xadrez,dentro,dia,2
+IMG_20200925_142508.jpg,colher de pau,simples,xadrez,dentro,dia,3
+IMG_20200925_142517.jpg,colher de pau,simples,jeans,dentro,dia,1
+IMG_20200925_142522.jpg,colher de pau,simples,jeans,dentro,dia,2
+IMG_20200925_142526.jpg,colher de pau,simples,jeans,dentro,dia,3
+IMG_20200925_142552.jpg,colher de pau,achatada,branco,dentro,dia,1
+IMG_20200925_142557.jpg,colher de pau,achatada,branco,dentro,dia,2
+IMG_20200925_142601.jpg,colher de pau,achatada,branco,dentro,dia,3
+IMG_20200925_142613.jpg,colher de pau,achatada,xadrez,dentro,dia,1
+IMG_20200925_142619.jpg,colher de pau,achatada,xadrez,dentro,dia,2
+IMG_20200925_142623.jpg,colher de pau,achatada,xadrez,dentro,dia,3
+IMG_20200925_142633.jpg,colher de pau,achatada,jeans,dentro,dia,1
+IMG_20200925_142637.jpg,colher de pau,achatada,jeans,dentro,dia,2
+IMG_20200925_142642.jpg,colher de pau,achatada,jeans,dentro,dia,3
+IMG_20200925_142736.jpg,colher de pau,longa,branco,dentro,dia,1
+IMG_20200925_142743.jpg,colher de pau,longa,branco,dentro,dia,2
+IMG_20200925_142748.jpg,colher de pau,longa,branco,dentro,dia,3
+IMG_20200925_142837.jpg,colher de pau,longa,xadrez,dentro,dia,1
+IMG_20200925_142841.jpg,colher de pau,longa,xadrez,dentro,dia,2
+IMG_20200925_142846.jpg,colher de pau,longa,xadrez,dentro,dia,3
+IMG_20200925_142903.jpg,colher de pau,longa,jeans,dentro,dia,1
+IMG_20200925_142907.jpg,colher de pau,longa,jeans,dentro,dia,2
+IMG_20200925_142914.jpg,colher de pau,longa,jeans,dentro,dia,3
+IMG_20200925_143129.jpg,colher de pau,simples,branco,fora,dia,1
+IMG_20200925_143134.jpg,colher de pau,simples,branco,fora,dia,2
+IMG_20200925_143138.jpg,colher de pau,simples,branco,fora,dia,3
+IMG_20200925_143201.jpg,colher de pau,simples,xadrez,fora,dia,1
+IMG_20200925_143207.jpg,colher de pau,simples,xadrez,fora,dia,2
+IMG_20200925_143212.jpg,colher de pau,simples,xadrez,fora,dia,3
+IMG_20200925_143232.jpg,colher de pau,simples,jeans,fora,dia,1
+IMG_20200925_143235.jpg,colher de pau,simples,jeans,fora,dia,2
+IMG_20200925_143237.jpg,colher de pau,simples,jeans,fora,dia,3
+IMG_20200925_143305.jpg,colher de pau,achatada,branco,fora,dia,1
+IMG_20200925_143308.jpg,colher de pau,achatada,branco,fora,dia,2
+IMG_20200925_143317.jpg,colher de pau,achatada,branco,fora,dia,3
+IMG_20200925_143333.jpg,colher de pau,achatada,xadrez,fora,dia,1
+IMG_20200925_143336.jpg,colher de pau,achatada,xadrez,fora,dia,2
+IMG_20200925_143339.jpg,colher de pau,achatada,xadrez,fora,dia,3
+IMG_20200925_143350.jpg,colher de pau,achatada,jeans,fora,dia,1
+IMG_20200925_143353.jpg,colher de pau,achatada,jeans,fora,dia,2
+IMG_20200925_143356.jpg,colher de pau,achatada,jeans,fora,dia,3
+IMG_20200925_143417.jpg,colher de pau,longa,branco,fora,dia,1
+IMG_20200925_143420.jpg,colher de pau,longa,branco,fora,dia,2
+IMG_20200925_143423.jpg,colher de pau,longa,branco,fora,dia,3
+IMG_20200925_143434.jpg,colher de pau,longa,xadrez,fora,dia,1
+IMG_20200925_143437.jpg,colher de pau,longa,xadrez,fora,dia,2
+IMG_20200925_143440.jpg,colher de pau,longa,xadrez,fora,dia,3
+IMG_20200925_143451.jpg,colher de pau,longa,jeans,fora,dia,1
+IMG_20200925_143455.jpg,colher de pau,longa,jeans,fora,dia,2
+IMG_20200925_143458.jpg,colher de pau,longa,jeans,fora,dia,3
+IMG_20200925_144305.jpg,lápis,bic,branco,dentro,dia,1
+IMG_20200925_144313.jpg,lápis,bic,branco,dentro,dia,2
+IMG_20200925_144316.jpg,lápis,bic,branco,dentro,dia,3
+IMG_20200925_144328.jpg,lápis,bic,xadrez,dentro,dia,1
+IMG_20200925_144331.jpg,lápis,bic,xadrez,dentro,dia,2
+IMG_20200925_144336.jpg,lápis,bic,xadrez,dentro,dia,3
+IMG_20200925_144345.jpg,lápis,bic,jeans,dentro,dia,1
+IMG_20200925_144348.jpg,lápis,bic,jeans,dentro,dia,2
+IMG_20200925_144354.jpg,lápis,bic,jeans,dentro,dia,3
+IMG_20200925_144434.jpg,lápis,longo,branco,dentro,dia,1
+IMG_20200925_144437.jpg,lápis,longo,branco,dentro,dia,2
+IMG_20200925_144445.jpg,lápis,longo,branco,dentro,dia,3
+IMG_20200925_144501.jpg,lápis,longo,xadrez,dentro,dia,1
+IMG_20200925_144506.jpg,lápis,longo,xadrez,dentro,dia,2
+IMG_20200925_144509.jpg,lápis,longo,xadrez,dentro,dia,3
+IMG_20200925_144518.jpg,lápis,longo,jeans,dentro,dia,1
+IMG_20200925_144520.jpg,lápis,longo,jeans,dentro,dia,2
+IMG_20200925_144523.jpg,lápis,longo,jeans,dentro,dia,3
+IMG_20200925_144542.jpg,lápis,curto_borracha,branco,dentro,dia,1
+IMG_20200925_144545.jpg,lápis,curto_borracha,branco,dentro,dia,2
+IMG_20200925_144550.jpg,lápis,curto_borracha,branco,dentro,dia,3
+IMG_20200925_144559.jpg,lápis,curto_borracha,xadrez,dentro,dia,1
+IMG_20200925_144602.jpg,lápis,curto_borracha,xadrez,dentro,dia,2
+IMG_20200925_144607.jpg,lápis,curto_borracha,xadrez,dentro,dia,3
+IMG_20200925_144617.jpg,lápis,curto_borracha,jeans,dentro,dia,1
+IMG_20200925_144621.jpg,lápis,curto_borracha,jeans,dentro,dia,2
+IMG_20200925_144625.jpg,lápis,curto_borracha,jeans,dentro,dia,3
+IMG_20200925_144726.jpg,lápis,bic,branco,fora,dia,1
+IMG_20200925_144731.jpg,lápis,bic,branco,fora,dia,2
+IMG_20200925_144734.jpg,lápis,bic,branco,fora,dia,3
+IMG_20200925_144743.jpg,lápis,bic,xadrez,fora,dia,1
+IMG_20200925_144748.jpg,lápis,bic,xadrez,fora,dia,2
+IMG_20200925_144751.jpg,lápis,bic,xadrez,fora,dia,3
+IMG_20200925_144801.jpg,lápis,bic,jeans,fora,dia,1
+IMG_20200925_144804.jpg,lápis,bic,jeans,fora,dia,2
+IMG_20200925_144807.jpg,lápis,bic,jeans,fora,dia,3
+IMG_20200925_144831.jpg,lápis,longo,branco,fora,dia,1
+IMG_20200925_144834.jpg,lápis,longo,branco,fora,dia,2
+IMG_20200925_144837.jpg,lápis,longo,branco,fora,dia,3
+IMG_20200925_144844.jpg,lápis,longo,xadrez,fora,dia,1
+IMG_20200925_144848.jpg,lápis,longo,xadrez,fora,dia,2
+IMG_20200925_144851.jpg,lápis,longo,xadrez,fora,dia,3
+IMG_20200925_144858.jpg,lápis,longo,jeans,fora,dia,1
+IMG_20200925_144900.jpg,lápis,longo,jeans,fora,dia,2
+IMG_20200925_144902.jpg,lápis,longo,jeans,fora,dia,3
+IMG_20200925_144920.jpg,lápis,curto_borracha,branco,fora,dia,1
+IMG_20200925_144923.jpg,lápis,curto_borracha,branco,fora,dia,2
+IMG_20200925_144929.jpg,lápis,curto_borracha,branco,fora,dia,3
+IMG_20200925_144935.jpg,lápis,curto_borracha,xadrez,fora,dia,1
+IMG_20200925_144938.jpg,lápis,curto_borracha,xadrez,fora,dia,2
+IMG_20200925_144941.jpg,lápis,curto_borracha,xadrez,fora,dia,3
+IMG_20200925_144948.jpg,lápis,curto_borracha,jeans,fora,dia,1
+IMG_20200925_144951.jpg,lápis,curto_borracha,jeans,fora,dia,2
+IMG_20200925_144954.jpg,lápis,curto_borracha,jeans,fora,dia,3
+IMG_20200925_145516.jpg,canetinha,rosa,branco,dentro,dia,1
+IMG_20200925_145518.jpg,canetinha,rosa,branco,dentro,dia,2
+IMG_20200925_145521.jpg,canetinha,rosa,branco,dentro,dia,3
+IMG_20200925_145528.jpg,canetinha,azul,xadrez,dentro,dia,1
+IMG_20200925_145533.jpg,canetinha,azul,xadrez,dentro,dia,2
+IMG_20200925_145536.jpg,canetinha,azul,xadrez,dentro,dia,3
+IMG_20200925_145543.jpg,canetinha,preto,jeans,dentro,dia,1
+IMG_20200925_145546.jpg,canetinha,preto,jeans,dentro,dia,2
+IMG_20200925_145549.jpg,canetinha,preto,jeans,dentro,dia,3
+IMG_20200925_145604.jpg,canetinha,rosa,branco,dentro,dia,1
+IMG_20200925_145608.jpg,canetinha,rosa,branco,dentro,dia,2
+IMG_20200925_145611.jpg,canetinha,rosa,branco,dentro,dia,3
+IMG_20200925_145619.jpg,canetinha,azul,xadrez,dentro,dia,1
+IMG_20200925_145621.jpg,canetinha,azul,xadrez,dentro,dia,2
+IMG_20200925_145623.jpg,canetinha,azul,xadrez,dentro,dia,3
+IMG_20200925_145631.jpg,canetinha,preto,jeans,dentro,dia,1
+IMG_20200925_145633.jpg,canetinha,preto,jeans,dentro,dia,2
+IMG_20200925_145638.jpg,canetinha,preto,jeans,dentro,dia,3
+IMG_20200925_145650.jpg,canetinha,rosa,branco,dentro,dia,1
+IMG_20200925_145654.jpg,canetinha,rosa,branco,dentro,dia,2
+IMG_20200925_145657.jpg,canetinha,rosa,branco,dentro,dia,3
+IMG_20200925_145707.jpg,canetinha,azul,xadrez,dentro,dia,1
+IMG_20200925_145710.jpg,canetinha,azul,xadrez,dentro,dia,2
+IMG_20200925_145712.jpg,canetinha,azul,xadrez,dentro,dia,3
+IMG_20200925_145719.jpg,canetinha,preto,jeans,dentro,dia,1
+IMG_20200925_145723.jpg,canetinha,preto,jeans,dentro,dia,2
+IMG_20200925_145726.jpg,canetinha,preto,jeans,dentro,dia,3
+IMG_20200925_145851.jpg,canetinha,rosa,branco,fora,dia,1
+IMG_20200925_145854.jpg,canetinha,rosa,branco,fora,dia,2
+IMG_20200925_145858.jpg,canetinha,rosa,branco,fora,dia,3
+IMG_20200925_145902.jpg,canetinha,azul,xadrez,fora,dia,1
+IMG_20200925_145905.jpg,canetinha,azul,xadrez,fora,dia,2
+IMG_20200925_145908.jpg,canetinha,azul,xadrez,fora,dia,3
+IMG_20200925_145915.jpg,canetinha,preto,jeans,fora,dia,1
+IMG_20200925_145917.jpg,canetinha,preto,jeans,fora,dia,2
+IMG_20200925_145921.jpg,canetinha,preto,jeans,fora,dia,3
+IMG_20200925_145934.jpg,canetinha,rosa,branco,fora,dia,1
+IMG_20200925_145937.jpg,canetinha,rosa,branco,fora,dia,2
+IMG_20200925_145940.jpg,canetinha,rosa,branco,fora,dia,3
+IMG_20200925_145944.jpg,canetinha,azul,xadrez,fora,dia,1
+IMG_20200925_145947.jpg,canetinha,azul,xadrez,fora,dia,2
+IMG_20200925_145954.jpg,canetinha,azul,xadrez,fora,dia,3
+IMG_20200925_150001.jpg,canetinha,preto,jeans,fora,dia,1
+IMG_20200925_150005.jpg,canetinha,preto,jeans,fora,dia,2
+IMG_20200925_150007.jpg,canetinha,preto,jeans,fora,dia,3
+IMG_20200925_150022.jpg,canetinha,rosa,branco,fora,dia,1
+IMG_20200925_150026.jpg,canetinha,rosa,branco,fora,dia,2
+IMG_20200925_150031.jpg,canetinha,rosa,branco,fora,dia,3
+IMG_20200925_150039.jpg,canetinha,azul,xadrez,fora,dia,1
+IMG_20200925_150041.jpg,canetinha,azul,xadrez,fora,dia,2
+IMG_20200925_150046.jpg,canetinha,azul,xadrez,fora,dia,3
+IMG_20200925_150051.jpg,canetinha,preto,jeans,fora,dia,1
+IMG_20200925_150053.jpg,canetinha,preto,jeans,fora,dia,2
+IMG_20200925_150056.jpg,canetinha,preto,jeans,fora,dia,3
+IMG_20201003_234321.jpg,colher de pau,simples,branco,dentro,noite,1
+IMG_20201003_234323.jpg,colher de pau,simples,branco,dentro,noite,2
+IMG_20201003_234325.jpg,colher de pau,simples,branco,dentro,noite,3
+IMG_20201003_234335.jpg,colher de pau,longa,branco,dentro,noite,1
+IMG_20201003_234336.jpg,colher de pau,longa,branco,dentro,noite,2
+IMG_20201003_234339.jpg,colher de pau,longa,branco,dentro,noite,3
+IMG_20201003_234347.jpg,colher de pau,achatada,branco,dentro,noite,1
+IMG_20201003_234349.jpg,colher de pau,achatada,branco,dentro,noite,2
+IMG_20201003_234351.jpg,colher de pau,achatada,branco,dentro,noite,3
+IMG_20201003_234406.jpg,colher de pau,simples,xadrez,dentro,noite,1
+IMG_20201003_234407.jpg,colher de pau,simples,xadrez,dentro,noite,2
+IMG_20201003_234408.jpg,colher de pau,simples,xadrez,dentro,noite,3
+IMG_20201003_234416.jpg,colher de pau,longa,xadrez,dentro,noite,1
+IMG_20201003_234418.jpg,colher de pau,longa,xadrez,dentro,noite,2
+IMG_20201003_234420.jpg,colher de pau,longa,xadrez,dentro,noite,3
+IMG_20201003_234427.jpg,colher de pau,achatada,xadrez,dentro,noite,1
+IMG_20201003_234428.jpg,colher de pau,achatada,xadrez,dentro,noite,2
+IMG_20201003_234430.jpg,colher de pau,achatada,xadrez,dentro,noite,3
+IMG_20201003_234452.jpg,colher de pau,simples,jeans,dentro,noite,1
+IMG_20201003_234453.jpg,colher de pau,simples,jeans,dentro,noite,2
+IMG_20201003_234455.jpg,colher de pau,simples,jeans,dentro,noite,3
+IMG_20201003_234506.jpg,colher de pau,longa,jeans,dentro,noite,1
+IMG_20201003_234508.jpg,colher de pau,longa,jeans,dentro,noite,2
+IMG_20201003_234510.jpg,colher de pau,longa,jeans,dentro,noite,3
+IMG_20201003_234520.jpg,colher de pau,achatada,jeans,dentro,noite,1
+IMG_20201003_234522.jpg,colher de pau,achatada,jeans,dentro,noite,2
+IMG_20201003_234524.jpg,colher de pau,achatada,jeans,dentro,noite,3
+IMG_20201003_234640.jpg,lápis,bic,branco,dentro,noite,1
+IMG_20201003_234642.jpg,lápis,bic,branco,dentro,noite,2
+IMG_20201003_234643.jpg,lápis,bic,branco,dentro,noite,3
+IMG_20201003_234650.jpg,lápis,longo,branco,dentro,noite,1
+IMG_20201003_234651.jpg,lápis,longo,branco,dentro,noite,2
+IMG_20201003_234653.jpg,lápis,longo,branco,dentro,noite,3
+IMG_20201003_234659.jpg,lápis,curto_borracha,branco,dentro,noite,1
+IMG_20201003_234701.jpg,lápis,curto_borracha,branco,dentro,noite,2
+IMG_20201003_234702.jpg,lápis,curto_borracha,branco,dentro,noite,3
+IMG_20201003_234723.jpg,lápis,bic,xadrez,dentro,noite,1
+IMG_20201003_234725.jpg,lápis,bic,xadrez,dentro,noite,2
+IMG_20201003_234727.jpg,lápis,bic,xadrez,dentro,noite,3
+IMG_20201003_234733.jpg,lápis,longo,xadrez,dentro,noite,1
+IMG_20201003_234735.jpg,lápis,longo,xadrez,dentro,noite,2
+IMG_20201003_234737.jpg,lápis,longo,xadrez,dentro,noite,3
+IMG_20201003_234742.jpg,lápis,curto_borracha,xadrez,dentro,noite,1
+IMG_20201003_234744.jpg,lápis,curto_borracha,xadrez,dentro,noite,2
+IMG_20201003_234745.jpg,lápis,curto_borracha,xadrez,dentro,noite,3
+IMG_20201003_234803.jpg,lápis,bic,jeans,dentro,noite,1
+IMG_20201003_234804.jpg,lápis,bic,jeans,dentro,noite,2
+IMG_20201003_234806.jpg,lápis,bic,jeans,dentro,noite,3
+IMG_20201003_234813.jpg,lápis,longo,jeans,dentro,noite,1
+IMG_20201003_234815.jpg,lápis,longo,jeans,dentro,noite,2
+IMG_20201003_234818.jpg,lápis,longo,jeans,dentro,noite,3
+IMG_20201003_234825.jpg,lápis,curto_borracha,jeans,dentro,noite,1
+IMG_20201003_234827.jpg,lápis,curto_borracha,jeans,dentro,noite,2
+IMG_20201003_234829.jpg,lápis,curto_borracha,jeans,dentro,noite,3
+IMG_20201004_001659.jpg,canetinha,rosa,branco,dentro,noite,1
+IMG_20201004_001701.jpg,canetinha,rosa,branco,dentro,noite,2
+IMG_20201004_001703.jpg,canetinha,rosa,branco,dentro,noite,3
+IMG_20201004_001710.jpg,canetinha,azul,branco,dentro,noite,1
+IMG_20201004_001714.jpg,canetinha,azul,branco,dentro,noite,2
+IMG_20201004_001718.jpg,canetinha,azul,branco,dentro,noite,3
+IMG_20201004_001724.jpg,canetinha,preto,branco,dentro,noite,1
+IMG_20201004_001726.jpg,canetinha,preto,branco,dentro,noite,2
+IMG_20201004_001729.jpg,canetinha,preto,branco,dentro,noite,3
+IMG_20201004_001745.jpg,canetinha,rosa,xadrez,dentro,noite,1
+IMG_20201004_001747.jpg,canetinha,rosa,xadrez,dentro,noite,2
+IMG_20201005_154533.jpg,canetinha,rosa,xadrez,dentro,noite,3
+IMG_20201004_001752.jpg,canetinha,azul,xadrez,dentro,noite,1
+IMG_20201004_001755.jpg,canetinha,azul,xadrez,dentro,noite,2
+IMG_20201004_001757.jpg,canetinha,azul,xadrez,dentro,noite,3
+IMG_20201004_001802.jpg,canetinha,preto,xadrez,dentro,noite,1
+IMG_20201004_001805.jpg,canetinha,preto,xadrez,dentro,noite,2
+IMG_20201004_001807.jpg,canetinha,preto,xadrez,dentro,noite,3
+IMG_20201004_001818.jpg,canetinha,rosa,jeans,dentro,noite,1
+IMG_20201004_001820.jpg,canetinha,rosa,jeans,dentro,noite,2
+IMG_20201004_001822.jpg,canetinha,rosa,jeans,dentro,noite,3
+IMG_20201004_001828.jpg,canetinha,azul,jeans,dentro,noite,1
+IMG_20201004_001829.jpg,canetinha,azul,jeans,dentro,noite,2
+IMG_20201004_001834.jpg,canetinha,azul,jeans,dentro,noite,3
+IMG_20201004_001839.jpg,canetinha,preto,jeans,dentro,noite,1
+IMG_20201004_001841.jpg,canetinha,preto,jeans,dentro,noite,2
+IMG_20201004_001843.jpg,canetinha,preto,jeans,dentro,noite,3
+IMG_20201004_002045.jpg,colher de pau,simples,branco,fora,noite,1
+IMG_20201004_002047.jpg,colher de pau,simples,branco,fora,noite,2
+IMG_20201004_002049.jpg,colher de pau,simples,branco,fora,noite,3
+IMG_20201004_002055.jpg,colher de pau,longa,branco,fora,noite,1
+IMG_20201004_002058.jpg,colher de pau,longa,branco,fora,noite,2
+IMG_20201004_002100.jpg,colher de pau,longa,branco,fora,noite,3
+IMG_20201004_002108.jpg,colher de pau,achatada,branco,fora,noite,1
+IMG_20201004_002110.jpg,colher de pau,achatada,branco,fora,noite,2
+IMG_20201004_002112.jpg,colher de pau,achatada,branco,fora,noite,3
+IMG_20201004_002134.jpg,colher de pau,simples,xadrez,fora,noite,1
+IMG_20201004_002137.jpg,colher de pau,simples,xadrez,fora,noite,2
+IMG_20201004_002139.jpg,colher de pau,simples,xadrez,fora,noite,3
+IMG_20201004_002148.jpg,colher de pau,longa,xadrez,fora,noite,1
+IMG_20201004_002152.jpg,colher de pau,longa,xadrez,fora,noite,2
+IMG_20201004_002155.jpg,colher de pau,longa,xadrez,fora,noite,3
+IMG_20201004_002205.jpg,colher de pau,achatada,xadrez,fora,noite,1
+IMG_20201004_002207.jpg,colher de pau,achatada,xadrez,fora,noite,2
+IMG_20201004_002210.jpg,colher de pau,achatada,xadrez,fora,noite,3
+IMG_20201004_002222.jpg,colher de pau,simples,jeans,fora,noite,1
+IMG_20201004_002224.jpg,colher de pau,simples,jeans,fora,noite,2
+IMG_20201004_002227.jpg,colher de pau,simples,jeans,fora,noite,3
+IMG_20201004_002236.jpg,colher de pau,longa,jeans,fora,noite,1
+IMG_20201004_002238.jpg,colher de pau,longa,jeans,fora,noite,2
+IMG_20201004_002242.jpg,colher de pau,longa,jeans,fora,noite,3
+IMG_20201004_002250.jpg,colher de pau,achatada,jeans,fora,noite,1
+IMG_20201004_002253.jpg,colher de pau,achatada,jeans,fora,noite,2
+IMG_20201004_002256.jpg,colher de pau,achatada,jeans,fora,noite,3
+IMG_20201004_012220.jpg,lápis,bic,branco,fora,noite,1
+IMG_20201004_012222.jpg,lápis,bic,branco,fora,noite,2
+IMG_20201004_012226.jpg,lápis,bic,branco,fora,noite,3
+IMG_20201004_012235.jpg,lápis,longo,branco,fora,noite,1
+IMG_20201004_012237.jpg,lápis,longo,branco,fora,noite,2
+IMG_20201004_012241.jpg,lápis,longo,branco,fora,noite,3
+IMG_20201004_012247.jpg,lápis,curto_borracha,branco,fora,noite,1
+IMG_20201004_012250.jpg,lápis,curto_borracha,branco,fora,noite,2
+IMG_20201004_012254.jpg,lápis,curto_borracha,branco,fora,noite,3
+IMG_20201004_012314.jpg,lápis,bic,xadrez,fora,noite,1
+IMG_20201004_012316.jpg,lápis,bic,xadrez,fora,noite,2
+IMG_20201004_012318.jpg,lápis,bic,xadrez,fora,noite,3
+IMG_20201004_012324.jpg,lápis,longo,xadrez,fora,noite,1
+IMG_20201004_012326.jpg,lápis,longo,xadrez,fora,noite,2
+IMG_20201004_012329.jpg,lápis,longo,xadrez,fora,noite,3
+IMG_20201004_012333.jpg,lápis,curto_borracha,xadrez,fora,noite,1
+IMG_20201004_012336.jpg,lápis,curto_borracha,xadrez,fora,noite,2
+IMG_20201004_012338.jpg,lápis,curto_borracha,xadrez,fora,noite,3
+IMG_20201004_012359.jpg,lápis,bic,jeans,fora,noite,1
+IMG_20201004_012402.jpg,lápis,bic,jeans,fora,noite,2
+IMG_20201004_012404.jpg,lápis,bic,jeans,fora,noite,3
+IMG_20201004_012410.jpg,lápis,longo,jeans,fora,noite,1
+IMG_20201004_012413.jpg,lápis,longo,jeans,fora,noite,2
+IMG_20201004_012416.jpg,lápis,longo,jeans,fora,noite,3
+IMG_20201004_012425.jpg,lápis,curto_borracha,jeans,fora,noite,1
+IMG_20201004_012428.jpg,lápis,curto_borracha,jeans,fora,noite,2
+IMG_20201004_012431.jpg,lápis,curto_borracha,jeans,fora,noite,3
+IMG_20201004_012802.jpg,canetinha,rosa,branco,fora,noite,1
+IMG_20201004_012804.jpg,canetinha,rosa,branco,fora,noite,2
+IMG_20201004_012809.jpg,canetinha,rosa,branco,fora,noite,3
+IMG_20201004_012815.jpg,canetinha,azul,branco,fora,noite,1
+IMG_20201004_012817.jpg,canetinha,azul,branco,fora,noite,2
+IMG_20201004_012819.jpg,canetinha,azul,branco,fora,noite,3
+IMG_20201004_012824.jpg,canetinha,preto,branco,fora,noite,1
+IMG_20201004_012825.jpg,canetinha,preto,branco,fora,noite,2
+IMG_20201004_012827.jpg,canetinha,preto,branco,fora,noite,3
+IMG_20201004_012843.jpg,canetinha,rosa,xadrez,fora,noite,1
+IMG_20201004_012846.jpg,canetinha,rosa,xadrez,fora,noite,2
+IMG_20201004_012854.jpg,canetinha,rosa,xadrez,fora,noite,3
+IMG_20201004_012906.jpg,canetinha,azul,xadrez,fora,noite,1
+IMG_20201004_012912.jpg,canetinha,azul,xadrez,fora,noite,2
+IMG_20201004_012915.jpg,canetinha,azul,xadrez,fora,noite,3
+IMG_20201004_012921.jpg,canetinha,preto,xadrez,fora,noite,1
+IMG_20201004_012924.jpg,canetinha,preto,xadrez,fora,noite,2
+IMG_20201004_012927.jpg,canetinha,preto,xadrez,fora,noite,3
+IMG_20201004_012941.jpg,canetinha,rosa,jeans,fora,noite,1
+IMG_20201004_012943.jpg,canetinha,rosa,jeans,fora,noite,2
+IMG_20201004_012946.jpg,canetinha,rosa,jeans,fora,noite,3
+IMG_20201004_012950.jpg,canetinha,azul,jeans,fora,noite,1
+IMG_20201004_012953.jpg,canetinha,azul,jeans,fora,noite,2
+IMG_20201004_012958.jpg,canetinha,azul,jeans,fora,noite,3
+IMG_20201004_013002.jpg,canetinha,preto,jeans,fora,noite,1
+IMG_20201004_013005.jpg,canetinha,preto,jeans,fora,noite,2
+IMG_20201004_013008.jpg,canetinha,preto,jeans,fora,noite,3
+IMG_2034.JPEG,eletrodomestico,cafeteira,branco,dentro,dia,1
+IMG_2035.JPEG,eletrodomestico,cafeteira,branco,dentro,dia,2
+IMG_2036.JPEG,eletrodomestico,cafeteira,branco,dentro,dia,3
+IMG_2037.JPEG,eletrodomestico,cafeteira,externo,fora,dia,1
+IMG_2038.JPEG,eletrodomestico,cafeteira,externo,fora,dia,2
+IMG_2039.JPEG,eletrodomestico,cafeteira,externo,fora,dia,3
+IMG_2042.JPEG,eletrodomestico,cafeteira,bege,dentro,dia,1
+IMG_2044.JPEG,eletrodomestico,cafeteira,bege,dentro,dia,2
+IMG_2045.JPEG,eletrodomestico,cafeteira,bege,dentro,dia,3
+IMG_2046.JPEG,eletrodomestico,batedeira,branco,dentro,dia,1
+IMG_2047.JPEG,eletrodomestico,batedeira,branco,dentro,dia,2
+IMG_2048.JPEG,eletrodomestico,batedeira,branco,dentro,dia,3
+IMG_2049.JPEG,eletrodomestico,batedeira,externo,fora,dia,1
+IMG_2050.JPEG,eletrodomestico,batedeira,externo,fora,dia,2
+IMG_2051.JPEG,eletrodomestico,batedeira,externo,fora,dia,3
+IMG_2052.JPEG,eletrodomestico,batedeira,bege,dentro,dia,1
+IMG_2053.JPEG,eletrodomestico,batedeira,bege,dentro,dia,2
+IMG_2054.JPEG,eletrodomestico,batedeira,bege,dentro,dia,3
+IMG_2055.JPEG,controle,hometheater,vermelho,dentro,dia,1
+IMG_2056.JPEG,controle,hometheater,vermelho,dentro,dia,2
+IMG_2057.JPEG,controle,hometheater,vermelho,dentro,dia,3
+IMG_2058.JPEG,banheiro,escova de cabelo,vermelho,dentro,dia,1
+IMG_2059.JPEG,banheiro,escova de cabelo,vermelho,dentro,dia,2
+IMG_2060.JPEG,banheiro,escova de cabelo,vermelho,dentro,dia,3
+IMG_2061.JPEG,banheiro,escova de dentes,vermelho,dentro,dia,1
+IMG_2062.JPEG,banheiro,escova de dentes,vermelho,dentro,dia,2
+IMG_2063.JPEG,banheiro,escova de dentes,vermelho,dentro,dia,3
+IMG_2064.JPEG,controle,videogame,vermelho,dentro,dia,1
+IMG_2065.JPEG,controle,videogame,vermelho,dentro,dia,2
+IMG_2066.JPEG,controle,videogame,vermelho,dentro,dia,3
+IMG_2067.JPEG,controle,televisao,vermelho,dentro,dia,1
+IMG_2068.JPEG,controle,televisao,vermelho,dentro,dia,2
+IMG_2069.JPEG,controle,televisao,vermelho,dentro,dia,3
+IMG_2070.JPEG,controle,televisao,branco,dentro,dia,1
+IMG_2071.JPEG,controle,televisao,branco,dentro,dia,2
+IMG_2072.JPEG,controle,televisao,branco,dentro,dia,3
+IMG_2073.JPEG,controle,videogame,branco,dentro,dia,1
+IMG_2074.JPEG,controle,videogame,branco,dentro,dia,2
+IMG_2075.JPEG,controle,videogame,branco,dentro,dia,3
+IMG_2076.JPEG,controle,videogame,vermelho,fora,dia,1
+IMG_2077.JPEG,controle,videogame,vermelho,fora,dia,2
+IMG_2078.JPEG,controle,videogame,vermelho,fora,dia,3
+IMG_2079.JPEG,banheiro,escova de cabelo,vermelho,fora,dia,1
+IMG_2080.JPEG,banheiro,escova de cabelo,vermelho,fora,dia,2
+IMG_2081.JPEG,banheiro,escova de cabelo,vermelho,fora,dia,3
+IMG_2082.JPEG,banheiro,escova de dentes,vermelho,fora,dia,1
+IMG_2083.JPEG,banheiro,escova de dentes,vermelho,fora,dia,2
+IMG_2084.JPEG,banheiro,escova de dentes,vermelho,fora,dia,3
+IMG_2085.JPEG,controle,televisao,vermelho,fora,dia,1
+IMG_2086.JPEG,controle,televisao,vermelho,fora,dia,2
+IMG_2087.JPEG,controle,televisao,vermelho,fora,dia,3
+IMG_2088.JPEG,controle,hometheater,vermelho,fora,dia,1
+IMG_2089.JPEG,controle,hometheater,vermelho,fora,dia,2
+IMG_2090.JPEG,controle,hometheater,vermelho,fora,dia,3
+IMG_2091.JPEG,calçado,tenis,branco,fora,dia,1
+IMG_2092.JPEG,calçado,tenis,branco,fora,dia,2
+IMG_2093.JPEG,calçado,tenis,branco,fora,dia,3
+IMG_2094.JPEG,calçado,sapato,branco,fora,dia,1
+IMG_2095.JPEG,calçado,sapato,branco,fora,dia,2
+IMG_2096.JPEG,calçado,sapato,branco,fora,dia,3
+IMG_2097.JPEG,calçado,chinelo,branco,fora,dia,1
+IMG_2098.JPEG,calçado,chinelo,branco,fora,dia,2
+IMG_2099.JPEG,calçado,chinelo,branco,fora,dia,3
+IMG_2100.JPEG,calçado,tenis,porcelana,dentro,dia,1
+IMG_2101.JPEG,calçado,tenis,porcelana,dentro,dia,2
+IMG_2102.JPEG,calçado,tenis,porcelana,dentro,dia,3
+IMG_2103.JPEG,calçado,sapato,porcelana,dentro,dia,1
+IMG_2104.JPEG,calçado,sapato,porcelana,dentro,dia,2
+IMG_2106.JPEG,calçado,sapato,porcelana,dentro,dia,3
+IMG_2107.JPEG,calçado,chinelo,porcelana,dentro,dia,1
+IMG_2108.JPEG,calçado,chinelo,porcelana,dentro,dia,2
+IMG_2109.JPEG,calçado,chinelo,porcelana,dentro,dia,3
+IMG_2110.JPEG,calçado,tenis,pedra,fora,dia,1
+IMG_2111.JPEG,calçado,tenis,pedra,fora,dia,2
+IMG_2112.JPEG,calçado,tenis,pedra,fora,dia,3
+IMG_2113.JPEG,calçado,sapato,pedra,fora,dia,1
+IMG_2114.JPEG,calçado,sapato,pedra,fora,dia,2
+IMG_2115.JPEG,calçado,sapato,pedra,fora,dia,3
+IMG_2116.JPEG,calçado,chinelo,pedra,fora,dia,1
+IMG_2117.JPEG,calçado,chinelo,pedra,fora,dia,2
+IMG_2118.JPEG,calçado,chinelo,pedra,fora,dia,3
+IMG_2122.JPEG,banheiro,escova de cabelo,vermelho,dentro,noite,1
+IMG_2123.JPEG,banheiro,escova de cabelo,vermelho,dentro,noite,2
+IMG_2124.JPEG,banheiro,escova de cabelo,vermelho,dentro,noite,3
+IMG_2125.JPEG,banheiro,escova de dentes,vermelho,dentro,noite,1
+IMG_2126.JPEG,banheiro,escova de dentes,vermelho,dentro,noite,2
+IMG_2127.JPEG,banheiro,escova de dentes,vermelho,dentro,noite,3
+IMG_2128.JPEG,controle,hometheater,vermelho,dentro,noite,1
+IMG_2129.JPEG,controle,hometheater,vermelho,dentro,noite,2
+IMG_2130.JPEG,controle,hometheater,vermelho,dentro,noite,3
+IMG_2131.JPEG,controle,televisao,vermelho,dentro,noite,1
+IMG_2132.JPEG,controle,televisao,vermelho,dentro,noite,2
+IMG_2133.JPEG,controle,televisao,vermelho,dentro,noite,3
+IMG_2134.JPEG,controle,videogame,vermelho,dentro,noite,1
+IMG_2135.JPEG,controle,videogame,vermelho,dentro,noite,2
+IMG_2136.JPEG,controle,videogame,vermelho,dentro,noite,3
+IMG_2152.JPEG,eletrodomestico,cafeteira,externo,fora,noite,1
+IMG_2153.JPEG,eletrodomestico,cafeteira,externo,fora,noite,2
+IMG_2155.JPEG,eletrodomestico,batedeira,externo,fora,noite,1
+IMG_2156.JPEG,eletrodomestico,batedeira,externo,fora,noite,2
+IMG_2157.JPEG,eletrodomestico,batedeira,externo,fora,noite,3
+IMG_2159.JPEG,eletrodomestico,batedeira,branco,dentro,noite,1
+IMG_2160.JPEG,eletrodomestico,batedeira,branco,dentro,noite,2
+IMG_2161.JPEG,eletrodomestico,cafeteira,branco,dentro,noite,1
+IMG_2162.JPEG,eletrodomestico,cafeteira,branco,dentro,noite,2
+IMG_2163.JPEG,eletrodomestico,cafeteira,branco,dentro,noite,3
+IMG_2164.JPEG,controle,videogame,verde,dentro,noite,1
+IMG_2165.JPEG,controle,videogame,verde,dentro,noite,2
+IMG_2166.JPEG,controle,videogame,verde,dentro,noite,3
+IMG_2167.JPEG,banheiro,escova de cabelo,verde,dentro,noite,1
+IMG_2168.JPEG,banheiro,escova de cabelo,verde,dentro,noite,2
+IMG_2169.JPEG,banheiro,escova de cabelo,verde,dentro,noite,3
+IMG_2170.JPEG,controle,televisao,verde,dentro,noite,1
+IMG_2171.JPEG,controle,televisao,verde,dentro,noite,2
+IMG_2172.JPEG,controle,televisao,verde,dentro,noite,3
+IMG_2173.JPEG,controle,hometheater,verde,dentro,noite,1
+IMG_2174.JPEG,controle,hometheater,verde,dentro,noite,2
+IMG_2175.JPEG,controle,hometheater,verde,dentro,noite,3
+IMG_2176.JPEG,banheiro,escova de dentes,verde,dentro,noite,1
+IMG_2177.JPEG,banheiro,escova de dentes,verde,dentro,noite,2
+IMG_2178.JPEG,banheiro,escova de dentes,verde,dentro,noite,3
+IMG_2179.JPEG,eletrodomestico,batedeira,branco,dentro,noite,3
+IMG_2180.JPEG,eletrodomestico,cafeteira,externo,fora,noite,3
+IMG_2183.JPEG,controle,hometheater,vermelho,fora,noite,1
+IMG_2184.JPEG,controle,hometheater,vermelho,fora,noite,2
+IMG_2185.JPEG,controle,hometheater,vermelho,fora,noite,3
+IMG_2187.JPEG,controle,videogame,vermelho,fora,noite,1
+IMG_2188.JPEG,controle,videogame,vermelho,fora,noite,2
+IMG_2190.JPEG,controle,videogame,vermelho,fora,noite,3
+IMG_2191.JPEG,controle,televisao,vermelho,fora,noite,1
+IMG_2192.JPEG,controle,televisao,vermelho,fora,noite,2
+IMG_2194.JPEG,controle,televisao,vermelho,fora,noite,3
+IMG_2196.JPEG,banheiro,escova de cabelo,vermelho,fora,noite,1
+IMG_2197.JPEG,banheiro,escova de cabelo,vermelho,fora,noite,2
+IMG_2198.JPEG,banheiro,escova de cabelo,vermelho,fora,noite,3
+IMG_2199.JPEG,banheiro,escova de dentes,vermelho,fora,noite,1
+IMG_2200.JPEG,banheiro,escova de dentes,vermelho,fora,noite,2
+IMG_2201.JPEG,banheiro,escova de dentes,vermelho,fora,noite,3
+imgM0,caderno,caderno de cachorro,vermelho,dentro,dia,1
+imgM1,caderno,caderno de cachorro,vermelho,dentro,dia,2
+imgM3,caderno,caderno de cachorro,vermelho,dentro,dia,3
+imgM4,panela,panela cinza,vermelho,dentro,dia,1
+imgM5,sapato,sapato simples,vermelho,dentro,noite,1
+imgM6,sapato,sapato simples,vermelho,dentro,dia,1
+imgM7,caderno,caderno de cachorro,azul,dentro,noite,1
+imgM8,caderno,caderno de cachorro,azul,dentro,noite,2
+imgM8_1,caderno,caderno azul,azul,dentro,noite,1
+imgM9,garfo,garfo para cima,vermelho,dentro,noite,1
+imgM10,garfo,garfo para cima,vermelho,dentro,noite,1
+imgM11,garfo,garfo para cima,azul,dentro,noite,1
+imgM12,garfo,garfo para cima,azul,dentro,noite,1
+imgM13,garfo,garfo para baixo,vermelho,dentro,noite,1
+imgM14,caderno,caderno azul,azul,dentro,noite,2
+imgM15,caderno,caderno de cachorro,azul,dentro,noite,3
+imgM16,caderno,caderno de cachorro,vermelho,dentro,noite,1
+imgM17,caderno,caderno de cachorro,vermelho,dentro,noite,1
+imgM18,chinelo,chinelo azul,vermelho,dentro,noite,1
+imgM19,chinelo,chinelo azul,azul,dentro,noite,1
+imgM20,chinelo,chinelo branco,azul,dentro ,noite,1
+imgM21,chinelo,chinelo branco,azul,dentro,noite,2
+imgM22,chinelo,chinelo azul,azul,fora,noite,1
+imgM23,chinelo,chinelo azul,cinza,fora,noite,2
+imgM24,caderno,caderno de cachorro,cinza,fora,noite,1
+imgM25,panela,panela cinza,vermelho,dentro ,dia,2
+imgM26,chinelo,chinelo branco,vermelho,dentro,noite,1
+imgM27,chinelo,chinelo branco,vermelho,dentro,noite,2
+imgM28,frigideira,frigideira cinza,azul,dentro,dia,
+imgM29,frigideira,frigideira dourada,azul,dentro,dia,
+imgM30,frigideira,frigideira simples,azul,den,dia,
+imgM31,frigideira,frigideira simples,vermelho,dentro,dia,
+imgM32,frigideira,frigideira cinza,vermelho,dentro,dia,
+imgM33,frigideira,frigideira dourada,vermelho,dentro,dia,
+imgM34,panela,panela grande,azul,dentro,dia,
+imgM35,panela,panela grande,vermelho,dentro,dia,
+imgM35_1,chinelo,chinelo marrom,cinza,fora,noite,
+imgM36,chinelo,chinelo marrom,azul,dentro,noite,
+imgM37,chinelo,chinelo marrom,azul,dentro,noite,
+imgM38,caderno,caderno azul,cinza,fora,noite,
+imgM39,chinelo,chinelo marrom,vermelho,dentro,dia,
+imgM40,chinelo,chinelo marrom,vermelho,fora,dia,
+imgM41,escova,escova azul,azul,dentro,dia,
+imgM42,escova,escova azul,azul,dentro,dia,
+imgM43,panela,panela grande,azul,dentro,dia,
+imgM44,escova,escova azul,vermelho,dentro,dia,
+imgM45,chinelo,chinelo marrom,cinza,fora,noite,
+imgM46,chinelo,chinelo branco,cinza,fora,noite,
+imgM49,escova,escova azul,vermelho,dentro,dia,
+imgM50,chinelo,chinelo branco,cinza,fora,noite,
+imgM51,panela,panela grande,branco,fora,dia,1
+imgM52,panela,panela grande,branco,fora,dia,2
+imgM53,panela,panela grande,branco,fora,dia,3
+imgM54,panela,panela cinza,branco,fora,dia,
+imgM55,panela,panela cinza,branco,fora,dia,
+imgM56,panela,panela cinza,branco,fora,dia,
+imgM57,panela,panela pequena,branco,fora,dia,
+imgM58,panela,panela pequena,branco,fora,dia,
+imgM59,panela,panela pequena,branco,fora,dia,
+imgM60,panela,panela pequena,branco,fora,dia,
+imgM61,panela,panela pequena,vermelho,dentro,dia,
+imgM62,panela,panela pequena,vermelho,dentro,dia,
+imgM63,panela,panela pequena,vermelho,dentro,dia,
+imgM64,panela,panela pequena,vermelho,dentro,dia,
+imgM65,panela,panela pequena,azul,dentro,dia,
+imgM66,panela,panela pequena,azul,dentro,dia,
+imgM67,panela,panela pequena,azul,dentro,dia,
+imgM68,caderno,caderno de cachorro,branco,fora,dia,
+imgM69,caderno,caderno de cachorro,branco,fora,dia,
+imgM70,caderno,caderno de cachorro,branco,fora,dia,
+imgM71,caderno,caderno azul,branco,fora,dia,
+imgM72,caderno,caderno azul,branco,fora,dia,
+imgM73,caderno,caderno azul,branco,fora,dia,
+imgM74,escova,escova azul,branco,fora,dia,
+imgM75,escova,escova azul,branco,fora,dia,
+imgM76,escova,escova azul,branco,fora,dia,
+imgM77,escova,escova virada,branco,fora,dia,
+imgM78,escova,escova virada,branco,fora,dia,
+imgM79,escova,escova virada,branco,fora,dia,
+imgM80,garfo,garfo para cima,branco,fora,dia,
+imgM81,garfo,garfo para cima,branco,fora,dia,
+imgM82,garfo,garfo para cima,branco,fora,dia,
+imgM83,frigideira,frigideira cinza,branco,fora,dia,
+imgM84,frigideira,frigideira cinza,branco,fora,dia,
+imgM85,frigideira,frigideira cinza,branco,fora,dia,
+imgM86,frigideira,frigideira dourada,branco,fora,dia,
+imgM87,frigideira,frigideira dourada,branco,fora,dia,
+imgM88,frigideira,frigideira dourada,branco,fora,dia,
+imgM89,frigideira,frigideira simples,branco,fora,dia,
+imgM90,frigideira,frigideira simples,branco,fora,dia,
+imgM91,frigideira,frigideira simples,branco,fora,dia,
+imgM92,panela,panela grande,branco,fora ,noite,
+imgM93,panela,panela simples,branco,fora ,noite,
+imgM94,panela,panela pequena,branco,fora ,noite,
+imgM95,frigideira,frigideira cinza,branco,fora,noite,
+imgM96,frigideira,frigideira dourada,branco,fora ,noite,
+imgM97,frigideira,frigideira simples,branco,fora ,noite,
+imgM98,garfo,garfo para cima,branco,fora ,noite,
+imgM99,garfo,garfo para cima,branco,fora,noite,
+imgM100,garfo,garfo para baixo,branco,fora ,noite,
+imgM101,garfo,garfo para baixo,branco,fora ,noite,
+imgM102,panela,panela grande,branco,fora ,noite,
+imgM103,panela,panela grande,branco,fora,noite,
+imgM104,panela,panela pequena,branco,fora ,noite,
+imgM105,panela,panela pequena,branco,fora ,noite,
+imgM106,panela,panela simples,branco,fora ,noite,
+imgM107,panela,panela simples,branco,fora,noite,
+imgM108,frigideira,frigideira cinza,branco,fora ,noite,
+imgM109,frigideira,frigideira cinza,branco,fora ,noite,
+imgM110,frigideira,frigideira dourada,branco,fora ,noite,
+imgM111,frigideira,frigideira dourada,branco,fora ,noite,
+imgM112,frigideira,frigideira simples,branco,fora ,noite,
+imgM113,frigideira,frigideira simples,branco,fora,noite,
